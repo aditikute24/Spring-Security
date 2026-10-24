@@ -50,4 +50,3 @@ This project is built for learning and practicing Spring Security, JWT authentic
 
 ---
 
-**Author:** Aditi Kute
